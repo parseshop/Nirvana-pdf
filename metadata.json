@@ -1,0 +1,6 @@
+{
+  "name": "پی دی اف خوان نیروانا",
+  "description": "یک برنامه ساده و فوق‌العاده سریع برای باز کردن و مشاهده فایل‌های PDF بدون دردسر، به همراه سیستم مدیریت تبلیغات بنری و لینک پویا.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
